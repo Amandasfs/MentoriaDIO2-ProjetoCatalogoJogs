@@ -1,0 +1,16 @@
+C:\Users\Amanda\Desktop\Catalogo de Jogos\bin\Debug\net5.0\Catalogo de Jogos.exe
+C:\Users\Amanda\Desktop\Catalogo de Jogos\bin\Debug\net5.0\Catalogo de Jogos.deps.json
+C:\Users\Amanda\Desktop\Catalogo de Jogos\bin\Debug\net5.0\Catalogo de Jogos.runtimeconfig.json
+C:\Users\Amanda\Desktop\Catalogo de Jogos\bin\Debug\net5.0\Catalogo de Jogos.runtimeconfig.dev.json
+C:\Users\Amanda\Desktop\Catalogo de Jogos\bin\Debug\net5.0\Catalogo de Jogos.dll
+C:\Users\Amanda\Desktop\Catalogo de Jogos\bin\Debug\net5.0\ref\Catalogo de Jogos.dll
+C:\Users\Amanda\Desktop\Catalogo de Jogos\bin\Debug\net5.0\Catalogo de Jogos.pdb
+C:\Users\Amanda\Desktop\Catalogo de Jogos\obj\Debug\net5.0\Catalogo de Jogos.csproj.AssemblyReference.cache
+C:\Users\Amanda\Desktop\Catalogo de Jogos\obj\Debug\net5.0\Catalogo de Jogos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amanda\Desktop\Catalogo de Jogos\obj\Debug\net5.0\Catalogo de Jogos.AssemblyInfoInputs.cache
+C:\Users\Amanda\Desktop\Catalogo de Jogos\obj\Debug\net5.0\Catalogo de Jogos.AssemblyInfo.cs
+C:\Users\Amanda\Desktop\Catalogo de Jogos\obj\Debug\net5.0\Catalogo de Jogos.csproj.CoreCompileInputs.cache
+C:\Users\Amanda\Desktop\Catalogo de Jogos\obj\Debug\net5.0\Catalogo de Jogos.dll
+C:\Users\Amanda\Desktop\Catalogo de Jogos\obj\Debug\net5.0\ref\Catalogo de Jogos.dll
+C:\Users\Amanda\Desktop\Catalogo de Jogos\obj\Debug\net5.0\Catalogo de Jogos.pdb
+C:\Users\Amanda\Desktop\Catalogo de Jogos\obj\Debug\net5.0\Catalogo de Jogos.genruntimeconfig.cache
